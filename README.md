@@ -2,7 +2,8 @@
 
 To manage the details of payment, booking dates, and customer for Hall Reservation.
 
-Database : phpMyAdmin
+# Database 
+- phpMyAdmin
 
 
 
